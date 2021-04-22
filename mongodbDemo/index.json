@@ -1,0 +1,5 @@
+{
+    "description": "Signature has expired",
+    "error": "Invalid token",
+    "status_code": 401
+}
